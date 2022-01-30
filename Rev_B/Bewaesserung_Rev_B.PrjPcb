@@ -64,7 +64,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UGSTCQGO
 
 [Document2]
-DocumentPath=Bewaesserung_Rev_B.SchDoc
+DocumentPath=01_MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -113,6 +113,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IOJHZKJA
+
+[Document5]
+DocumentPath=02_Power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EAIZIDRI
 
 [Configuration1]
 Name=Sources
