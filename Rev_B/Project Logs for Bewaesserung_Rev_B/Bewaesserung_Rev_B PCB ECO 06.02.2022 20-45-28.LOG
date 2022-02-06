@@ -1,0 +1,1189 @@
+Added Component: Designator=C1(C_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "Mst 10-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "1276-1006-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C_0805_B)
+Add component (AddParameter): Name = "Creator"; Value = "Mst 10-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "1276-1100-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL21A226MQQNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "Mst 10-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "1276-1019-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10B105KO8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "Mst 10-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "1276-1929-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10B104JA8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SS1040_R1_00001)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 06-02-22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "SS1040_R1_00001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "3757-SS1040_R1_00001CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IF"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panjit International Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SS1040_R1_00001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "10-pol.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UF"; Value = "0.55V"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SS1040_R1_00001)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 06-02-22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "SS1040_R1_00001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "3757-SS1040_R1_00001CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IF"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panjit International Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SS1040_R1_00001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "10-pol.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UF"; Value = "0.55V"; VariantName = "[No Variations]"
+Added Component: Designator=D3(New footprint 1)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 31.01.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "511-1579-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SML-D12P8WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SS1040_R1_00001)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 06-02-22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "SS1040_R1_00001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "3757-SS1040_R1_00001CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IF"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panjit International Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SS1040_R1_00001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "10-pol.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UF"; Value = "0.55V"; VariantName = "[No Variations]"
+Added Component: Designator=D5(New footprint 1)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 31.01.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "511-1579-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SML-D12P8WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SS1040_R1_00001)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 06-02-22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "SS1040_R1_00001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "3757-SS1040_R1_00001CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IF"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panjit International Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SS1040_R1_00001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "10-pol.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UF"; Value = "0.55V"; VariantName = "[No Variations]"
+Added Component: Designator=D7(New footprint 1)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 31.01.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "511-1579-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SML-D12P8WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Component: Designator=FB1(WE-CBF_0603_High Current)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 08-12-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DCR_max"; Value = "0.15Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "732-1592-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I_max"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "742792641"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Z@100MHz"; Value = "300Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=FB2(WE-CBF_0603_High Current)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 08-12-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DCR_max"; Value = "0.15Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "732-1592-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I_max"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "742792641"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Z@100MHz"; Value = "300Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=J1(61001621121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/catalog/datasheet/61001621121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "MSt 06-02-22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "61001621121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "732-5463-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61001021121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "10-pol.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=J2(JST_XH_2.54_2pin_vert)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 29-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "B2B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "455-2247-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "jst.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=J3(JST_XH_2.54_2pin_vert)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 29-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "B2B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "455-2247-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "jst.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=J4(JST_XH_2.54_4pin_vert)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 29-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "B4B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "455-2249-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "jst.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=J5(JST_XH_2.54_2pin_vert)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 29-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "B2B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "455-2247-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "jst.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=J6(JST_XH_2.54_3pin_vert)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 29-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "B3B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "455-2248-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "jst.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=J7(691137710003)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 08-12-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "732-10956-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691137710003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Component: Designator=J8(691137710002)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 08-12-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "732-10955-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691137710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Component: Designator=J9(691137710003)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 08-12-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "732-10956-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691137710003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Component: Designator=K1(40.52.9.012.0000)
+Add component (AddParameter): Name = "coil_current"; Value = "55mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "coil_resistance"; Value = "220Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "coil_voltage_max"; Value = "18.0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "coil_voltage_min"; Value = "8.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "MSt 08-12-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "2066-40.52.9.012.0000-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Finder Relays, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "40.52.9.012.0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Component: Designator=K2(40.52.9.012.0000)
+Add component (AddParameter): Name = "coil_current"; Value = "55mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "coil_resistance"; Value = "220Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "coil_voltage_max"; Value = "18.0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "coil_voltage_min"; Value = "8.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "MSt 08-12-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "2066-40.52.9.012.0000-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Finder Relays, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "40.52.9.012.0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Component: Designator=K3(40.52.9.012.0000)
+Add component (AddParameter): Name = "coil_current"; Value = "55mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "coil_resistance"; Value = "220Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "coil_voltage_max"; Value = "18.0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "coil_voltage_min"; Value = "8.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "MSt 08-12-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "2066-40.52.9.012.0000-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Finder Relays, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "40.52.9.012.0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(ONSC-SOT-363-6-419B-02_W_V)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 28-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "1514-CMKT3920TRPBFREECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Central Semiconductor Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CMKT3920 TR PBFREE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(ONSC-SOT-363-6-419B-02_W_V)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 28-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "1514-CMKT3920TRPBFREECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Central Semiconductor Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CMKT3920 TR PBFREE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(ONSC-SOT-363-6-419B-02_W_V)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 28-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "1514-CMKT3920TRPBFREECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Central Semiconductor Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CMKT3920 TR PBFREE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(ONSC-SOT-363-6-419B-02_W_V)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 28-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "1514-CMKT3920TRPBFREECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Central Semiconductor Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CMKT3920 TR PBFREE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 26-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-10.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 26-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-10.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 26-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-10.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 26-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-10.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 26-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-10.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 12-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-2.20KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K2"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 26-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-10.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 12-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-2.20KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K2"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 26-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-10.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 26-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-10.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 26-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-10.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 12-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-22.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0722KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22K"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 12-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-22.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0722KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 12-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-47.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0747KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 12-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-47.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0747KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 12-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-4.70KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4K7"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 26-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-1.00KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 26-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-10.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R19(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 12-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-4.70KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4K7"; VariantName = "[No Variations]"
+Added Component: Designator=R20(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 12-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-4.70KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4K7"; VariantName = "[No Variations]"
+Added Component: Designator=R21(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 26-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-1.00KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R22(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 26-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-10.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R23(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 26-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-1.00KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R24(R_0603_B)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 26-08-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "311-10.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SLAB-QFN-24-2550x2550TP_A_V)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 29-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "634-CP2102NA02QFN24R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CP2102N-A02-GQFN24R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 29-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "732-4473-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "82400102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "cut tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Component: Designator=U4(TMPS 03)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 05-10-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "1951-1176-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Traco Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TMPS 03-112"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Component: Designator=U5(TSR 0.5-2433-Footprint-1)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 15-11-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "1951-2707-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Traco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TSR 0.5-2433"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Component: Designator=XF1(696103201002)
+Add component (AddParameter): Name = "Creator"; Value = "MSt 08-12-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Ordering Code"; Value = "732-11372-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "696103201002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placed"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision Status"; Value = "new"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=K1-A2
+Added Pin To Net: NetName=+12 Pin=K2-A2
+Added Pin To Net: NetName=+12 Pin=K3-A2
+Added Pin To Net: NetName=+12 Pin=R16-2
+Added Pin To Net: NetName=+12 Pin=R19-2
+Added Pin To Net: NetName=+12 Pin=R20-2
+Added Pin To Net: NetName=+12 Pin=U4-5
+Added Pin To Net: NetName=+12 Pin=U5-1
+Added Net: Name=+12
+Added Pin To Net: NetName=ESP32_EN Pin=C1-2
+Added Pin To Net: NetName=ESP32_EN Pin=Q1-4
+Added Pin To Net: NetName=ESP32_EN Pin=R2-1
+Added Pin To Net: NetName=ESP32_EN Pin=U1-3
+Added Net: Name=ESP32_EN
+Added Pin To Net: NetName=FLOW Pin=R10-1
+Added Net: Name=FLOW
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=GND Pin=Q2-6
+Added Pin To Net: NetName=GND Pin=Q3-6
+Added Pin To Net: NetName=GND Pin=Q4-6
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Pin To Net: NetName=GND Pin=U1-39
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-25
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Net: Name=GND
+Added Pin To Net: NetName=GPI36 Pin=R7-1
+Added Net: Name=GPI36
+Added Pin To Net: NetName=GPIO0 Pin=Q1-6
+Added Pin To Net: NetName=GPIO0 Pin=R1-1
+Added Pin To Net: NetName=GPIO0 Pin=U1-25
+Added Net: Name=GPIO0
+Added Pin To Net: NetName=GPIO13 Pin=J1-6
+Added Pin To Net: NetName=GPIO13 Pin=J1-6
+Added Pin To Net: NetName=GPIO13 Pin=R8-1
+Added Net: Name=GPIO13
+Added Pin To Net: NetName=GPIO17 Pin=J1-10
+Added Pin To Net: NetName=GPIO17 Pin=J1-10
+Added Pin To Net: NetName=GPIO17 Pin=R9-1
+Added Net: Name=GPIO17
+Added Pin To Net: NetName=HSPICLK Pin=J1-9
+Added Pin To Net: NetName=HSPICLK Pin=J1-9
+Added Net: Name=HSPICLK
+Added Pin To Net: NetName=HSPID Pin=J1-8
+Added Pin To Net: NetName=HSPID Pin=J1-8
+Added Net: Name=HSPID
+Added Pin To Net: NetName=HSPIQ Pin=J1-7
+Added Pin To Net: NetName=HSPIQ Pin=J1-7
+Added Net: Name=HSPIQ
+Added Pin To Net: NetName=L_F Pin=K1-21
+Added Pin To Net: NetName=L_F Pin=K2-21
+Added Pin To Net: NetName=L_F Pin=U4-2
+Added Pin To Net: NetName=L_F Pin=XF1-2
+Added Net: Name=L_F
+Added Pin To Net: NetName=LED_HEART Pin=U1-16
+Added Net: Name=LED_HEART
+Added Pin To Net: NetName=LED_WIFI Pin=U1-12
+Added Pin To Net: NetName=LED_WIFI Pin=U1-14
+Added Net: Name=LED_WIFI
+Added Pin To Net: NetName=L Pin=J7-1
+Added Pin To Net: NetName=L Pin=XF1-1
+Added Net: Name=L
+Added Pin To Net: NetName=NetD1_1 Pin=J1-4
+Added Pin To Net: NetName=NetD1_1 Pin=J1-4
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_2 Pin=D3-K
+Added Pin To Net: NetName=NetD2_2 Pin=K1-A1
+Added Pin To Net: NetName=NetD2_2 Pin=Q2-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R16-1
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetD4_2 Pin=D5-K
+Added Pin To Net: NetName=NetD4_2 Pin=K2-A1
+Added Pin To Net: NetName=NetD4_2 Pin=Q3-1
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=R19-1
+Added Net: Name=NetD5_A
+Added Pin To Net: NetName=NetD6_2 Pin=D7-K
+Added Pin To Net: NetName=NetD6_2 Pin=K3-A1
+Added Pin To Net: NetName=NetD6_2 Pin=Q4-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_A Pin=D7-A
+Added Pin To Net: NetName=NetD7_A Pin=R20-1
+Added Net: Name=NetD7_A
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_5 Pin=R6-1
+Added Net: Name=NetJ1_5
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_1 Pin=K2-24
+Added Net: Name=NetJ8_1
+Added Pin To Net: NetName=NetJ8_2 Pin=J8-2
+Added Pin To Net: NetName=NetJ8_2 Pin=K2-14
+Added Net: Name=NetJ8_2
+Added Pin To Net: NetName=NetK1_24 Pin=K1-24
+Added Pin To Net: NetName=NetK1_24 Pin=K3-21
+Added Net: Name=NetK1_24
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R5-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R4-2
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R17-1
+Added Pin To Net: NetName=NetQ2_2 Pin=R18-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R21-1
+Added Pin To Net: NetName=NetQ3_2 Pin=R22-2
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R23-1
+Added Pin To Net: NetName=NetQ4_2 Pin=R24-2
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=U2-9
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=U1-8
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Net: Name=NetR23_2
+Added Pin To Net: NetName=NetU1_9 Pin=U1-9
+Added Net: Name=NetU1_9
+Added Pin To Net: NetName=N Pin=J7-3
+Added Pin To Net: NetName=N Pin=K1-11
+Added Pin To Net: NetName=N Pin=K2-11
+Added Pin To Net: NetName=N Pin=U4-1
+Added Net: Name=N
+Added Pin To Net: NetName=PE Pin=J7-2
+Added Net: Name=PE
+Added Pin To Net: NetName=UART_DTR Pin=Q1-1
+Added Pin To Net: NetName=UART_DTR Pin=R4-1
+Added Pin To Net: NetName=UART_DTR Pin=U2-23
+Added Net: Name=UART_DTR
+Added Pin To Net: NetName=UART_RTS Pin=Q1-5
+Added Pin To Net: NetName=UART_RTS Pin=R5-1
+Added Pin To Net: NetName=UART_RTS Pin=U2-19
+Added Net: Name=UART_RTS
+Added Pin To Net: NetName=UART_RX Pin=U1-34
+Added Pin To Net: NetName=UART_RX Pin=U2-21
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=U1-35
+Added Pin To Net: NetName=UART_TX Pin=U2-20
+Added Net: Name=UART_TX
+Added Pin To Net: NetName=USB_D_ESD_N Pin=U2-4
+Added Pin To Net: NetName=USB_D_ESD_N Pin=U3-4
+Added Net: Name=USB_D_ESD_N
+Added Pin To Net: NetName=USB_D_ESD_P Pin=U2-3
+Added Pin To Net: NetName=USB_D_ESD_P Pin=U3-6
+Added Net: Name=USB_D_ESD_P
+Added Pin To Net: NetName=USB_D_N Pin=J4-3
+Added Pin To Net: NetName=USB_D_N Pin=U3-3
+Added Net: Name=USB_D_N
+Added Pin To Net: NetName=USB_D_P Pin=J4-2
+Added Pin To Net: NetName=USB_D_P Pin=U3-1
+Added Net: Name=USB_D_P
+Added Pin To Net: NetName=USB_VBUS Pin=FB2-1
+Added Pin To Net: NetName=USB_VBUS Pin=J4-1
+Added Net: Name=USB_VBUS
+Added Pin To Net: NetName=USR_BUTN Pin=R3-1
+Added Pin To Net: NetName=USR_BUTN Pin=U1-5
+Added Net: Name=USR_BUTN
+Added Pin To Net: NetName=VALVE_CLOSE Pin=J9-1
+Added Pin To Net: NetName=VALVE_CLOSE Pin=K3-22
+Added Net: Name=VALVE_CLOSE
+Added Pin To Net: NetName=VALVE_N Pin=J9-2
+Added Pin To Net: NetName=VALVE_N Pin=K1-14
+Added Net: Name=VALVE_N
+Added Pin To Net: NetName=VALVE_OPEN Pin=J9-3
+Added Pin To Net: NetName=VALVE_OPEN Pin=K3-24
+Added Net: Name=VALVE_OPEN
+Added Pin To Net: NetName=VBUS_3V3 Pin=R12-1
+Added Pin To Net: NetName=VBUS_3V3 Pin=R13-1
+Added Pin To Net: NetName=VBUS_3V3 Pin=R14-2
+Added Pin To Net: NetName=VBUS_3V3 Pin=R15-2
+Added Pin To Net: NetName=VBUS_3V3 Pin=U2-8
+Added Net: Name=VBUS_3V3
+Added Pin To Net: NetName=VBUS Pin=C3-2
+Added Pin To Net: NetName=VBUS Pin=FB2-2
+Added Pin To Net: NetName=VBUS Pin=R12-2
+Added Pin To Net: NetName=VBUS Pin=R13-2
+Added Pin To Net: NetName=VBUS Pin=U3-5
+Added Net: Name=VBUS
+Added Pin To Net: NetName=VCC_F Pin=C2-2
+Added Pin To Net: NetName=VCC_F Pin=FB1-1
+Added Pin To Net: NetName=VCC_F Pin=J1-1
+Added Pin To Net: NetName=VCC_F Pin=J1-1
+Added Pin To Net: NetName=VCC_F Pin=R6-2
+Added Pin To Net: NetName=VCC_F Pin=R7-2
+Added Pin To Net: NetName=VCC_F Pin=R8-2
+Added Pin To Net: NetName=VCC_F Pin=R9-2
+Added Net: Name=VCC_F
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=VCC Pin=FB1-2
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R10-2
+Added Pin To Net: NetName=VCC Pin=R11-2
+Added Pin To Net: NetName=VCC Pin=U1-2
+Added Pin To Net: NetName=VCC Pin=U2-5
+Added Pin To Net: NetName=VCC Pin=U2-6
+Added Pin To Net: NetName=VCC Pin=U2-7
+Added Pin To Net: NetName=VCC Pin=U5-3
+Added Net: Name=VCC
+Added Class: Name=01_MCU
+Added Class: Name=02_Power
+Added Differential Pair: Name=USB_D_ESD
+Added Differential Pair: Name=USB_D
+Added Room: Name=02_Power
+Added Class: Name=USB_D
