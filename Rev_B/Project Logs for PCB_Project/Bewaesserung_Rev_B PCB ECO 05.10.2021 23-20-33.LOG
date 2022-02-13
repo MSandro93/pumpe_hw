@@ -1,4 +1,0 @@
-Added Component: Designator=U2(TMPS 03)
-Add component (AddParameter): Name = "Design Item ID"; Value = "TMPS 03-112"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Source"; Value = "TMPS 03.SchLib"; VariantName = "[No Variations]"
-Added Member To Class: ClassName=Bewaesserung_Rev_B Member=Component U2 TMPS 03-112
