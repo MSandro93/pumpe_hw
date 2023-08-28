@@ -37,12 +37,13 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
-CrossRefLocationStyle=1
+CrossRefSheetStyle=0
+CrossRefLocationStyle=0
 CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=DEFAULT
 
 [Preferences]
 PrefsVaultGUID=
@@ -115,6 +116,68 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNIECDQP
+
+[ProjectVariant1]
+UniqueID=C061E486-BF68-4C0B-911E-9849BFF14E9B
+Description=DEFAULT
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=R17|UniqueId=\FDFNPLKA|Kind=1|AlternatePart= 
+Variation2=Designator=R14|UniqueId=\JWMQKMAR|Kind=2|AlternatePart=RC0603FR-0728KL|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=Nerdtronix GmbH|AltLibLink_SymbolReference=CMP-002-004944-43|AltLibLink_DesignItemID=CMP-002-004944-43|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Nerdtronix GmbH|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=03df2295-8bd5-4746-b348-790ea8a0d67d|AltLibLink_ItemGUID=8941DBF5-5F5C-40F4-A4D3-814363851C51|AltLibLink_RevisionGUID=EC2040C5-8D0C-4FA8-95B6-3661062FB6B9|AltLibLink_Footprint=R_0603_B|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=RC0603FR-0728KL
+ParamDesignator1=R14
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=R14
+ParamVariation3=ParameterName=Creator|VariantValue=MSt 26-08-21
+ParamDesignator3=R14
+ParamVariation4=ParameterName=Description|VariantValue=RES 28K 0603 1% 0.1W
+ParamDesignator4=R14
+ParamVariation5=ParameterName=Distributor|VariantValue=Digikey
+ParamDesignator5=R14
+ParamVariation6=ParameterName=Distributor Ordering Code|VariantValue=311-28.0KHRCT-ND
+ParamDesignator6=R14
+ParamVariation7=ParameterName=Footprint|VariantValue=R_0603_B
+ParamDesignator7=R14
+ParamVariation8=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator8=R14
+ParamVariation9=ParameterName=Library Reference|VariantValue=CMP-002-004944-43
+ParamDesignator9=R14
+ParamVariation10=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator10=R14
+ParamVariation11=ParameterName=Manufacturer Part Number|VariantValue=RC0603FR-0728KL
+ParamDesignator11=R14
+ParamVariation12=ParameterName=Maximum Operating Temperature|VariantValue=155
+ParamDesignator12=R14
+ParamVariation13=ParameterName=Maximum Voltage|VariantValue=150V
+ParamDesignator13=R14
+ParamVariation14=ParameterName=Minimum Operating Temperature|VariantValue=-55
+ParamDesignator14=R14
+ParamVariation15=ParameterName=Mounting Type|VariantValue=SMT
+ParamDesignator15=R14
+ParamVariation16=ParameterName=Package|VariantValue=0603
+ParamDesignator16=R14
+ParamVariation17=ParameterName=Packaging|VariantValue=Cut Tape
+ParamDesignator17=R14
+ParamVariation18=ParameterName=Pad Count|VariantValue=2
+ParamDesignator18=R14
+ParamVariation19=ParameterName=PCB3D|VariantValue= 
+ParamDesignator19=R14
+ParamVariation20=ParameterName=Pin Info|VariantValue= 
+ParamDesignator20=R14
+ParamVariation21=ParameterName=Power|VariantValue=0.1W
+ParamDesignator21=R14
+ParamVariation22=ParameterName=RoHS|VariantValue=Yes
+ParamDesignator22=R14
+ParamVariation23=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator23=R14
+ParamVariation24=ParameterName=Simulation|VariantValue= 
+ParamDesignator24=R14
+ParamVariation25=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator25=R14
+ParamVariation26=ParameterName=Value|VariantValue=28K
+ParamDesignator26=R14
+ParamVariationCount=26
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Bewaesserung_Rev_B\Bewaesserung_Rev_B.xls
@@ -235,12 +298,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -250,7 +323,7 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType2=PCB 3D Print
@@ -268,7 +341,7 @@ PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType4=PCB Print
 OutputName4=PCB Prints
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType5=PCBDrawing
@@ -280,7 +353,7 @@ PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType6=PCBLIB Print
 OutputName6=PCBLIB Prints
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType7=PDF3D
@@ -313,6 +386,30 @@ OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Harness Layout Drawing Print
+OutputName12=Harness Layout Drawing Prints
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Harness Wiring Diagram Print
+OutputName13=Harness Wiring Diagram Prints
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=PCBDrawing
+OutputName14=Draftsman
+OutputDocumentPath14=
+OutputVariantName14=[No Variations]
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=PCBDrawing
+OutputName15=Draftsman
+OutputDocumentPath15=
+OutputVariantName15=[No Variations]
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -350,13 +447,13 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType2=CompositeDrill
 OutputName2=Composite Drill Drawing
 OutputDocumentPath2=
-OutputVariantName2=
+OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType3=Drill
 OutputName3=Drill Drawing/Guides
 OutputDocumentPath3=
-OutputVariantName3=
+OutputVariantName3=[No Variations]
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType4=Final
@@ -373,17 +470,17 @@ OutputDefault5=0
 OutputType6=Gerber X2
 OutputName6=Gerber X2 Files
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
 OutputType7=IPC2581
 OutputName7=IPC-2581 Files
 OutputDocumentPath7=
-OutputVariantName7=
+OutputVariantName7=[No Variations]
 OutputDefault7=0
 OutputType8=Mask
 OutputName8=Solder/Paste Mask Prints
 OutputDocumentPath8=
-OutputVariantName8=
+OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType9=NC Drill
@@ -399,7 +496,7 @@ OutputDefault10=0
 OutputType11=Plane
 OutputName11=Power-Plane Prints
 OutputDocumentPath11=
-OutputVariantName11=
+OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType12=Test Points
@@ -468,6 +565,12 @@ OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
+OutputType9=Project History
+OutputName9=Project History
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -681,6 +784,11 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Web ReviewOutputName
+OutputName12=Web Review Data
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -813,6 +921,8 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
+Type120=1
+Type121=1
 
 [Difference Levels]
 Type1=1
@@ -883,6 +993,7 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
+Type69=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1004,13 +1115,37 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
-MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
 Type124=1
 Type125=1
 Type126=1
+Type127=1
+Type128=2
+Type129=2
+Type130=2
+Type131=2
+Type132=2
+Type133=2
+Type134=2
+Type135=2
+Type136=2
+Type137=2
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=2
+Type148=2
+Type149=2
+Type150=2
+Type151=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1152,11 +1287,13 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=+12|NetColor=clYellow
-Net2=NetName=GND|NetColor=clBlue
-Net3=NetName=L_F|NetColor=$00003366
-Net4=NetName=N|NetColor=$00FFFF6E
-Net5=NetName=VCC|NetColor=$000101FF
+Net1=NetName=+12V0|NetColor=clYellow
+Net2=NetName=+12V0D|NetColor=clYellow
+Net3=NetName=GND|NetColor=clBlue
+Net4=NetName=L_F|NetColor=$00003366
+Net5=NetName=N|NetColor=$00FFFF6E
+Net6=NetName=PGND|NetColor=$006A00A1
+Net7=NetName=VCC|NetColor=$000101FF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
