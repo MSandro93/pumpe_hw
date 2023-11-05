@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pumpe_hw)(type KiCad)(uri C:/Users/Michael/Documents/source/repos/pumpe_hw/libs/pumpe_hw.pretty)(options "")(descr ""))
+)
